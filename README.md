@@ -11,3 +11,5 @@ Alright, this is my website about whatever I decide to put on it. Right now I'm 
 - Temmie Link(Changes every month)
 - Crimbo Blog Readied
 - Normal Blog
+- Blinkies and Stamps
+- Polls
