@@ -10,3 +10,4 @@ NEW ADDITIONS
 - Shameless Plug to M1sfit!Puppeteer
 - Temmie Link(Changes every month)
 - Crimbo Blog Readied
+- Normal Blog
