@@ -12,7 +12,6 @@ Alright, this is my website about whatever I decide to put on it. Right now I'm 
 - Crimbo Blog Readied
 - Normal Blog
 - Blinkies and Stamps
-- Polls
 - Cursor Trails
 - 
 
